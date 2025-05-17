@@ -1,0 +1,8 @@
+---
+name:meshery
+title: Meshery
+version: Latest
+maintainer: "@mesheryio"
+description: Meshery is the multi-service mesh management plane. It provides lifecycle management, performance benchmarking, and service mesh configuration.
+url: https://meshery.io
+category: architecture
