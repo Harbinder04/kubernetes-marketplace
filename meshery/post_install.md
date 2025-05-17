@@ -8,7 +8,7 @@ As a self-service engineering platform, Meshery enables collaborative design and
 
 ### Docs for Meshery
 
-    [https://docs.meshery.io/](https://docs.meshery.io/)
+[https://docs.meshery.io/](https://docs.meshery.io/)
 
 ### Install Meshery on Your Kubernetes Cluster Using Helm
 
